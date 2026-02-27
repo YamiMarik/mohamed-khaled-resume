@@ -1,0 +1,25 @@
+a:visited, a:link {
+    color: blue;
+}
+
+header {
+    margin-bottom: 30px;
+   
+}
+
+/* h2 {
+    font-family: sans-serif;
+    color: #1098ad;
+} */
+
+.experience-education {
+    display: flex;
+}
+
+.experience {
+    float: left;
+}
+
+.education {
+    float: right;
+}
