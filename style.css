@@ -1,0 +1,35 @@
+
+body {
+    background: linear-gradient(to top left, #28b487, #7dd56f);
+    color: white;
+    font-family: sans-serif;
+}
+
+
+
+a:visited, a:link {
+    /* color: blue; */
+    color: white;
+}
+
+header {
+    margin-bottom: 30px;
+   
+}
+
+/* h2 {
+    font-family: sans-serif;
+    color: #1098ad;
+} */
+
+.experience-education {
+    display: flex;
+}
+
+.experience {
+    float: left;
+}
+
+.education {
+    float: right;
+}
